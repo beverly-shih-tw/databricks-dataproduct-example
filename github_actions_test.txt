@@ -1,3 +1,4 @@
 testing github actions deployment when pushed
 added repository secrets
-changed databricks cluster secret to a shared cluster id
+changed databricks cluster secret to a shared cluster id 
+changed databricks access token to match catalog 
